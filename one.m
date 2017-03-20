@@ -18,3 +18,12 @@ rm: Temp: is a directory
 HelmsmandeMini:Desktop RoyGao$ cd Temp
 HelmsmandeMini:Temp RoyGao$ ls
 */
+
+//刚刚提交到暂缓区
+
+//剩下的还在修改区，没有提交呢
+/*
+ Nothing specified, nothing added.
+ Maybe you wanted to say 'git add .'?
+ HelmsmandeMini:Temp RoyGao$ git add .
+ HelmsmandeMini:Temp RoyGao$*/
